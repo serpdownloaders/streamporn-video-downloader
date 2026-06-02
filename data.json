@@ -1,0 +1,216 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/streamporn-downloader",
+  "serply_link": "https://serp.ly/streamporn-downloader",
+  "app_name": "Streamporn Video Downloader",
+  "short_description": "Download & Save Streamporn Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Streamporn Downloader is a browser extension designed to help you save videos from StreamPorn watch pages directly to your computer. It works with the verified StreamPorn watch-page URL pattern and provides a button-driven download experience.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/streamporn-downloader-fullscreen-01-f8f85b61b6.webp",
+    "https://apps.serp.co/media/optimized-products/streamporn-downloader-fullscreen-02-294b806006.webp",
+    "https://apps.serp.co/media/optimized-products/streamporn-downloader-fullscreen-03-736b57f554.webp",
+    "https://apps.serp.co/media/optimized-products/streamporn-downloader-fullscreen-04-3a10787c88.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Do I need an account to use the extension?",
+      "answer": "No. The extension works without requiring you to log in to any service."
+    },
+    {
+      "question": "Can I download videos from any StreamPorn page?",
+      "answer": "The extension works best on verified watch-page URLs. Results may vary on other page types."
+    },
+    {
+      "question": "Is the extension free?",
+      "answer": "There is a free trial with 3 downloads. Unlimited downloads require a paid license."
+    },
+    {
+      "question": "Will the extension work on mobile browsers?",
+      "answer": "The extension is designed for desktop browsers like Chrome, Edge, Brave, and Firefox."
+    },
+    {
+      "question": "Does the extension collect my personal data?",
+      "answer": "The extension does not collect or store any personal information beyond what is necessary for the download process."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "StreamPorn hosts a wide variety of streaming content across its watch pages, but the platform does not provide a built-in way to save videos for offline viewing. Users who want to keep copies of videos they have permission to download often resort to screen recording or unreliable third-party tools that degrade quality."
+    },
+    {
+      "name": "",
+      "description": "Saving videos you have permission to download for offline access"
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Works on verified StreamPorn watch-page URLs",
+    "Covers both streamporn.nl and streamporn.pw domains",
+    "Button-driven handoff for straightforward downloads",
+    "Saves videos in standard MP4 format",
+    "No complex setup or technical knowledge required",
+    "Works with verified StreamPorn watch-page URLs",
+    "Button-driven handoff for easy downloads",
+    "Saves videos in MP4 format for broad compatibility",
+    "No account or login required to use the extension",
+    "Lightweight extension that does not slow down browsing",
+    "Regular updates via GitHub Releases",
+    "Free trial available to test the workflow"
+  ],
+  "content": {
+    "why": [
+      "StreamPorn hosts a wide variety of streaming content across its watch pages, but the platform does not provide a built-in way to save videos for offline viewing. Users who want to keep copies of videos they have permission to download often resort to screen recording or unreliable third-party tools that degrade quality.",
+      "Streamporn Downloader fills that gap by offering a dedicated browser extension that works directly with StreamPorn watch-page URLs. It detects the media on supported pages and provides a simple button-driven download process, letting you save videos in MP4 format without juggling multiple tools or sacrificing quality."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open StreamPorn and go to a supported watch page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the Streamporn Downloader extension from the latest GitHub release.",
+      "Open your browser and navigate to a StreamPorn watch page.",
+      "Wait for the page to fully load and start video playback.",
+      "Click the Streamporn Downloader icon in your browser toolbar.",
+      "The extension will detect the available media on the page.",
+      "Select the quality or format option you prefer.",
+      "Click the download button to begin the process.",
+      "Save the resulting MP4 file to your desired location."
+    ],
+    "supported_formats": [
+      "Input: StreamPorn video streams from supported watch pages",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "StreamPorn users who want to save videos for offline viewing",
+      "Users who prefer a simple button-driven download experience",
+      "People who need MP4 files for compatibility with various devices",
+      "Anyone looking for a browser extension that works on watch-page URLs"
+    ],
+    "use_cases": [
+      "Saving videos you have permission to download for offline access",
+      "Creating a personal archive of content you own",
+      "Moving videos between devices without streaming",
+      "Preserving content that may be removed from the platform",
+      "Avoiding the need for screen recording or other workarounds"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any video on the page Make sure you are on a supported StreamPorn watch page and that video playback has started. The extension needs to see active media before it can detect available streams.",
+      "The download button does not appear Refresh the page and try again. If the issue persists, check that you are using a supported browser and the latest version of the extension.",
+      "The download fails or stops mid-way Check your internet connection and try again. Some large files may take longer to process.",
+      "I am on a different domain than expected The extension works on both streamporn.nl and streamporn.pw domains. Make sure you are on one of these supported sites.",
+      "The extension does not work after a browser update Download and install the latest release from GitHub to ensure compatibility with your browser version."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported StreamPorn page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "The extension works on both streamporn.nl and streamporn.pw domains",
+      "Supported watch-page URLs follow the /watch-xxx- pattern"
+    ],
+    "about": [
+      "StreamPorn is a video streaming platform that hosts a wide range of adult content. Streamporn Downloader helps users save videos from supported watch pages for offline viewing, making it easier to access content without an active internet connection."
+    ]
+  },
+  "serpx_link": "https://serpx.link/streamporn-downloader",
+  "github_topics": [
+    "streamporn-download",
+    "streamporn-downloader",
+    "streamporn-video-downloader",
+    "streamporn-video-downloader-online",
+    "streamporn-video-downloader-mac",
+    "streamporn-video-downloader-window",
+    "streamporn-video-downloader-free",
+    "streamporn-video-downloader-extension",
+    "streamporn-video-downloader-app",
+    "streamporn-video-downloader-chrome",
+    "streamporn-video-downloader-from-url",
+    "how-to-download-streamporn-videos",
+    "how-to-download-streamporn-videos-mac",
+    "how-to-download-streamporn-videos-windows",
+    "how-to-download-streamporn-videos-online",
+    "how-to-download-streamporn-videos-free",
+    "how-to-download-from-streamporn",
+    "how-to-download-videos-from-streamporn",
+    "download-streamporn-videos",
+    "streamporn-video-tutorial",
+    "save-streamporn-videos",
+    "streamporn-video-content-saver",
+    "how-to-download-streamporn-videos-for-free"
+  ],
+  "hashtags": [
+    "#StreampornDownload",
+    "#StreampornDownloader",
+    "#StreampornVideoDownloader",
+    "#StreampornVideoDownloaderOnline",
+    "#StreampornVideoDownloaderMac",
+    "#StreampornVideoDownloaderWindow",
+    "#StreampornVideoDownloaderFree",
+    "#StreampornVideoDownloaderExtension",
+    "#StreampornVideoDownloaderApp",
+    "#StreampornVideoDownloaderChrome",
+    "#StreampornVideoDownloaderFromURL",
+    "#HowToDownloadStreampornVideos",
+    "#HowToDownloadStreampornVideosMac",
+    "#HowToDownloadStreampornVideosWindows",
+    "#HowToDownloadStreampornVideosOnline",
+    "#HowToDownloadStreampornVideosFree",
+    "#HowToDownloadFromStreamporn",
+    "#HowToDownloadVideosFromStreamporn",
+    "#DownloadStreampornVideos",
+    "#StreampornVideoTutorial",
+    "#SaveStreampornVideos",
+    "#StreampornVideoContentSaver",
+    "#HowToDownloadStreampornVideosForFree"
+  ],
+  "youtube_tags": [
+    "Streamporn Download",
+    "Streamporn Downloader",
+    "Streamporn Video Downloader",
+    "Streamporn Video Downloader Online",
+    "Streamporn Video Downloader Mac",
+    "Streamporn Video Downloader Window",
+    "Streamporn Video Downloader Free",
+    "Streamporn Video Downloader Extension",
+    "Streamporn Video Downloader App",
+    "Streamporn Video Downloader Chrome",
+    "Streamporn Video Downloader From URL",
+    "How To Download Streamporn Videos",
+    "How To Download Streamporn Videos Mac",
+    "How To Download Streamporn Videos Windows",
+    "How To Download Streamporn Videos Online",
+    "How To Download Streamporn Videos Free",
+    "How To Download From Streamporn",
+    "How To Download Videos From Streamporn",
+    "Download Streamporn Videos",
+    "Streamporn Video Tutorial",
+    "Save Streamporn Videos",
+    "Streamporn Video Content Saver",
+    "How To Download Streamporn Videos For Free"
+  ]
+}
